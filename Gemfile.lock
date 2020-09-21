@@ -4,7 +4,10 @@ GIT
   specs:
     awesome_print (1.8.0)
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 51980bbaaeb00197ae4fffb277eece47cbf2e9b6
 GEM
   remote: https://rubygems.org/
   specs:
